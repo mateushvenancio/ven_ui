@@ -1,7 +1,7 @@
 name: ven_ui
 description: A new Flutter package project.
 version: 1.0.0
-homepage:
+repository: https://github.com/mateushvenancio/ven_ui
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
